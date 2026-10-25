@@ -20,7 +20,6 @@ Both notebooks are saved with their outputs, so you can read the results without
 
 The dataset is not included in this repository. Download the four files from the BT4012 Kaggle competition page:
 
-**<KAGGLE_URL>**
 
 Put them in the `data/` folder:
 
