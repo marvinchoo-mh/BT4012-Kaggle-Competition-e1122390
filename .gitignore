@@ -1,0 +1,8 @@
+# competition data is not shared; put the CSVs in data/ (see README)
+data/*
+!data/README.md
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
