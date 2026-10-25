@@ -53,9 +53,6 @@ jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeou
 Each notebook writes its submission file to `Submission/`. The files already in `Submission/` are the ones I
 submitted, so you can compare a fresh run against them.
 
-Both notebooks have a `RUN_TIME_CHECK` setting in their first code cell. Setting it to `False` skips the
-time-based validation (train on steps 1–21, evaluate on 22–35) and gives the same submission file faster: about
-17 minutes for `e1122390.ipynb`.
 
 ## Repository layout
 
